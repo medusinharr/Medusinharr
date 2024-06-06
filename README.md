@@ -1,9 +1,9 @@
 BOAS VINDAS AO MEU PERFIL 💙💙
-Meu nome é Rute dos Santos Izidoro 
+Meu nome é Rute dos Santos Izidoro 😁
  Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 Você pode entrar em contato comigo 📫
-alurastartestudante@email.com
+rutesantos1802@gmail.com
 
-@alurastartestudante
+@_.rutesantoss._
